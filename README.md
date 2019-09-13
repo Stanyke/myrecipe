@@ -7,7 +7,7 @@ If you cloned this app, the frontend file can be ran on localhost:4200, and back
 
 Also the frontend app can be cloned from https://github.com/OpenClassrooms-Student-Center/5614116-go-fullstack-recipe-frontend.git
 
-This app needs to have the root paths as followed.
+This app (myrecipe) needs to have the root paths as followed.
 
 myrecipe --- backend, frontend.
 
