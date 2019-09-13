@@ -1,7 +1,7 @@
 # myrecipe
 My recipe's store
 
-This is an online store to keep track, create, read (open), modify (edit) and delete of recipes, also it was made in NodeJs, Angular with the help of it's RestFul API pointing to "/api/recipe" and a server support from my own data store on MongoDB Atlas!...
+This is an online store to keep track, create, read (open), modify (edit) and delete of recipes, also it was made in NodeJs, Angular with the help of it's RestFul API pointing to "localhost:3000/api/recipe" and a server support from my own data store on MongoDB Atlas!...
 
 If you cloned this app, the frontend file can be ran on localhost:4200, and backend file can run on your on custom localhost support which you can change in the following path "backend/server.js", changing it's PORT.
 
