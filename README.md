@@ -15,6 +15,10 @@ backend --- https://github.com/Stanyke/myrecipe/tree/master/backend (All the fil
 
 frontend --- https://github.com/OpenClassrooms-Student-Center/5614116-go-fullstack-recipe-frontend (All the files & the folder in this tree).
 
+To start the frontend server, run "npm install", after successful installation run "ng serve" and open your browser and run localhost:4200, just as you are in your frontend folder path.
+
+To start the backend server, run "node server" OR "nodemon server" if you have nodemon install, just as you are in your backend folder path.
+
 
 
 Hope you Enjoy and learn from this web application.
